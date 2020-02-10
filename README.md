@@ -6,11 +6,11 @@ Rhythm of Business Cadence Sample for Director Level Meetings.
 - Cross-functional team meetings:
 - Purpose: Coordination on current and upcoming company and go-to-market initiatives.
 - Agenda:
-    - Action items recap from last meeting.
-    - Important upcoming dates/deliverables.
-    - Who is working on what? 
-    - Who needs what? 
-    - Additional planning time for certain team members?
+   - Action items recap from last meeting.
+   - Important upcoming dates/deliverables.
+   - Who is working on what? 
+   - Who needs what? 
+   - Additional planning time for certain team members?
   
 ### Monthly
 - Resource forecasting:
