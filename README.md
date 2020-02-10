@@ -1,6 +1,6 @@
 # Directors Meetings
 
-Rhythm of Business Cadence Sample for Director Level Meetings 
+Rhythm of Business Cadence Sample for Director Level Meetings. 
 
 ### Ad Hoc
 - Cross-functional team meetings
