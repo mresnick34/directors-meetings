@@ -38,13 +38,29 @@ Usually weekly or bi-monthly during initiatives.
     - Next steps and action items.
 
 ### Quartertly
-- Cross-team interdependency planning.
+- Cross-team interdependency planning:
   - Purpose: Determine interdependencies between teams for delivery and plan for those handoffs.
-- Quarterly committments against OKRs or initiatives. 
-  - These must include definition of done. 
+  - Agenda:
+     - Projected interdependencies.
+     - Support needs for each department.
+     - Draft timeline of milestones and deliverables.
+     - Next steps and action items.
+- Quarterly committments against OKRs or initiatives:
+  - Purpose: Review long-term progress toward company goals.
+  - Agenda:
+    - OKR progress recap.
+    - Blocking issues, challenges.
+    - Team recognition for surpassing goals.
+    - Resource adjustments, cross-functional asks.
+    - Next steps and action items.
 - Finance meetings:
-  - Review capitalizable team efforts and budget spends.
-  - These can be monthly depending on the initiatives in progress and the finance team's needs.
+  - Purpose: Review capitalizable team efforts and budget spends.
+  - Agenda:
+     - Committments review against capitalizable work types.
+     - Budget progress to date. How close to the projected curve?
+     - Expected upcoming expenses.
+     - Finance Q&A
+     - Next steps and action items.
 
 ### Annual 
 - Generate OKRs
