@@ -12,6 +12,18 @@ Usually weekly or bi-monthly during initiatives.
       - Who is working on what? 
       - Who needs what? 
       - Additional planning time for certain team members?
+
+### Weekly
+- Directors coordination meeting.
+   - Purpose: Coordination on current and upcoming company cross-team initiatives.
+   - Agenda:
+      - Action items recap from last meeting.
+      - Important upcoming dates/deliverables.
+      - Who is working on what? 
+      - Who needs what? 
+      - Blockers and other issues.
+      - Additional planning time for certain team members?
+      - Next steps and action items.
   
 ### Monthly
 - Resource forecasting:
