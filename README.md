@@ -3,6 +3,7 @@
 Rhythm of Business Cadence Sample for Director Level Meetings. 
 
 ### Ad Hoc
+Usually weekly or bi-monthly during initiatives.
 - Cross-functional team meetings:
    - Purpose: Coordination on current and upcoming company and go-to-market initiatives.
    - Agenda:
